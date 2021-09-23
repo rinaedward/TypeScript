@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "target": "esnext"
+  }
+}
+
+// tsconfig.json will have all the typescript related configuration.
